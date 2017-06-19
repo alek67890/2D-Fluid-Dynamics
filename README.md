@@ -1,3 +1,3 @@
 # 2D-Fluid-Dynamics
 
-Code will be avalible soon
+Code will be available soon
